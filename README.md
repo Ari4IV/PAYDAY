@@ -1,7 +1,7 @@
 # PAYDAY
 Download and execute, Just like Payday!
 
-Changed pay.vbs URL to Your URL
+Changed pay.vbs URL to Your URL.
 
 Run install.bat with superuser's permissions to install PAYDAY.
 
