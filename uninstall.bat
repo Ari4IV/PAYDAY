@@ -1,0 +1,1 @@
+taskkill /f /im day.exe&taskkill /f /im wscript.exe&del "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\pay.vbs"&del "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\day.exe"&DEL "%~f0"

